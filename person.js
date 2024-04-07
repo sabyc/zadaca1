@@ -35,6 +35,12 @@ const persons = [
     age: 39,
     phone: 0763839111,
   },
+  {
+    firstname: "Sabina ",
+    lastname: "Civgin",
+    age: 39,
+    phone: 0763839111,
+  },
 ];
 
 function displayFullName(persons) {
